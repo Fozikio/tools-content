@@ -1,6 +1,6 @@
 {
   "name": "@fozikio/tools-content",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Content pipeline for AI agents — draft, review, and publish workflow. Plugin for cortex-engine.",
   "type": "module",
   "main": "dist/index.js",
