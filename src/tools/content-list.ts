@@ -2,7 +2,7 @@
  * content_list — list content pieces with optional filters.
  */
 
-import type { ToolDefinition, ToolContext, QueryFilter } from 'cortex-engine';
+import type { ToolDefinition, ToolContext, QueryFilter } from '@fozikio/cortex-engine';
 
 const COLLECTION = 'content_v2';
 

@@ -5,7 +5,7 @@
  * Uses the generic CortexStore API (put/get/update/query) on the 'content_v2' collection.
  */
 
-import type { ToolPlugin } from 'cortex-engine';
+import type { ToolPlugin } from '@fozikio/cortex-engine';
 import { contentCreateTool } from './tools/content-create.js';
 import { contentListTool } from './tools/content-list.js';
 import { contentUpdateTool } from './tools/content-update.js';

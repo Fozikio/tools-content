@@ -2,7 +2,7 @@
  * content_create — create a new content piece in the pipeline.
  */
 
-import type { ToolDefinition, ToolContext } from 'cortex-engine';
+import type { ToolDefinition, ToolContext } from '@fozikio/cortex-engine';
 
 const COLLECTION = 'content_v2';
 
