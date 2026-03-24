@@ -1,5 +1,9 @@
 # @fozikio/tools-content
 
+> **Built into cortex-engine v1.0.0+**
+> These tools are now included in [`@fozikio/cortex-engine`](https://github.com/Fozikio/cortex-engine) core — no separate install needed. This package remains available for use with cortex-engine **v0.x only**. If you're on v1.0.0+, just install `@fozikio/cortex-engine`.
+
+
 Content pipeline plugin for cortex-engine. Manage content pieces through a multi-stage pipeline from idea to publication across blogs, social posts, newsletters, and dev.to articles.
 
 ## Install
