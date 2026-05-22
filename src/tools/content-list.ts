@@ -9,6 +9,8 @@ const COLLECTION = 'content_v2';
 export const contentListTool: ToolDefinition = {
   name: 'content_list',
   description: 'List content pieces. Filter by state or type.',
+  category: 'content',
+  whenToUse: 'When listing content pieces in the pipeline, optionally filtered by state or type',
   inputSchema: {
     type: 'object',
     properties: {
